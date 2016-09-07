@@ -1,0 +1,2 @@
+.text_tstmnls_masonry .text_tstmnls_item , .video_tstmnls_masonry .text_tstmnls_item {float:left ;width:48%; margin:1%;}
+.text_tstmnls_masonry .text_tstmnls_item:nth-child(2n+1) , .video_tstmnls_masonry .text_tstmnls_item:nth-child(2n+1) {clear: both;}
