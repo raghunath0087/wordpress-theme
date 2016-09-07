@@ -1,2 +1,2 @@
 # wordpress
-This is a responsive  theme for your wordpress site
+This is a responsive theme for your wordpress site
